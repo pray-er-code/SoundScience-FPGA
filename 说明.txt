@@ -1,0 +1,11 @@
+声学科普交互式多媒体系统
+
+打开工程：build/stage4/td_video_c26_03/Stage4_Media.prj
+开发工具：安路TD 6.2，器件EG4S20BG256，顶层top_stage4_media
+src：最终工程源码及字库，UTF-8中文注释
+ip：工程必需的官方IP
+constraints：引脚和时序约束
+TF_READY：26个配套素材，全部放入FAT32 TF卡根目录
+BIT/Media_Full.bit：已验证的位流
+
+保持解压后的目录结构。工程源码逻辑与已验证位流对应，仅整理了注释。
